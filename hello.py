@@ -39,6 +39,7 @@ if __name__ == '__main__':
         request_id='3441c7ee-3410-4619-9cc2-779dee27b8b4'
     )
 
+    st.set_page_config(page_title="MBTI백과사전", page_icon=":smiley:")
     st.title("MBTI 백과사전")
     
     # Initialize chat history
